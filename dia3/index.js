@@ -41,11 +41,11 @@ function covid(){
     let vacunas = document.getElementById("vaccine").value;
     
     if(cabeza == "si" && respiracion == "si" && temperatura && vacunas == "no"){
-        console.log("Usted tiene un 70% de tener covid !!!");
+        console.log("Usted tiene un 70% de tener covid!!!");
         document.write("Usted tiene un 70% de tener covid !!!");
         
     }else if(cabeza == "si" && respiracion == "si" && temperatura && vacunas == "si"){
         console.log("Usted tiene un 40% de tener covid !!!");
         document.write("Usted tiene un 40% de tener covid !!!");
-    }
+        }
     }
