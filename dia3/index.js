@@ -19,11 +19,13 @@ if(ageI && testI){
 }
 };
 
+
 // Crear un programa para evaluar si tenemos covid
 // 1.- Solicitar al usuario si tiene los siguientes sintomas
 // a.- dolor de cabeza
 // b.- Dificultad para respirar
 // c.- temperatura mayor a 37grados
+
 // d.- Dolor de cuerpo
 // e.- Si tengo vacunas aplicadas
 // 2 a- Debo evaluar si  tengo 3 de los sintomas
